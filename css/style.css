@@ -1,0 +1,147 @@
+body{
+   margin: 0;
+    background-color: rgb(211, 208, 208);
+}
+
+#them{
+   display: flex;
+   position: relative;
+}
+#me{color: white;
+    background-color: blue;
+    height: 100px ; 
+    width: 25%;
+    font-family: tahoma; 
+    box-sizing: border-box;
+    margin-left: 0;
+   
+
+}
+#you{color: white;
+    background-color: red;
+    height: 100px; ;
+    width: 75%;
+    font-family: tahoma;
+    box-sizing: border-box;
+    margin-left: -5px;
+display: flex;
+}
+#ball{
+    width: 100%;
+    height: 80px;
+    font-family: tahoma;
+    background-color: white;
+    box-sizing: border-box;
+    margin-top:-15px;
+}
+ul{
+    margin-left: 200px;
+    padding: 0;
+    list-style: none;
+}
+li{
+    float: left;
+}
+a:link{
+    color: black;
+    width: 100px;
+    text-decoration: none;
+    display: inline;
+    text-align: center;
+    padding: 0px;
+    font-size: 18px;
+    font-family: tahoma;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+#them2{
+    font-size: 50px;
+    margin-top: 10px;
+color: white;
+}
+input{
+    height: 20px;
+    width: 80px;
+    background-color: red;
+    border: solid 1px;
+    border-color: grey;
+    margin-top: 45px;
+    margin-right: 200px;
+
+}
+::placeholder{
+    color: white;
+    opacity: 0.5;
+}
+#lol{
+    font-size: 15px;
+    margin-left: 230px;
+    font-size: 50px;
+    margin-top: 10px;
+}
+#mine{
+    margin-left: 350px;
+    margin-top: 45px;
+}
+#top{
+    display: flex;
+    height: 380px;
+    width: 900px;
+    background-color: white;
+    margin-left:50px;
+margin-right: 200px;
+margin-top: 40px;
+font-size: 20px;
+}
+.one{
+    height: 500px;
+    background-color: white;
+    width: 280px;
+    margin-left: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+}
+.tik{
+    height: 310px;
+    width: 280px;
+}
+#tree{
+    display: flex;
+    /* background-color: white; */
+    width: 900px;
+    height: 510px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+.tegs{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+.one2{height: 500px;
+    background-color: white;
+    width: 280px;
+    margin-left: 20px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: grey;
+}
+.tik2{
+    height: 310px;
+    width: 280px;
+}
+#tree2{
+    display: flex;
+    /* background-color: white; */
+    width: 900px;
+    height: 510px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+a:hover{
+text-decoration: underline;
+cursor: pointer;
+
+}
